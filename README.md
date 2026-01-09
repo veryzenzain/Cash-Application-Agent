@@ -8,7 +8,7 @@ Application workflow:
 - Automatically generate emails via AI for remittance requests
 - record every action in an audit log.
 
-> A cash application = matching an incoming customer payment to the correct customer account and corresponding invoice.
+> Cash application matches an incoming customer payment to the correct customer account and corresponding invoice.
 
 ## demo: 
 loom.com/share/e5f2d407bcc3428ca80a92414b552898
